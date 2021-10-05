@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos aula="IF03" grupo="DAM2">
+    <alumno>
+        <nombre>Ana Alonso</nombre>
+        <edad>20</edad>
+    </alumno>
+  <alumno>
+    <nombre>Beatriz Blanco</nombre>
+    <edad>21</edad>
+  </alumno>
+  <alumno>
+    <nombre>Carlos Cuesta</nombre>
+    <edad>18</edad>
+  </alumno>
+  <alumno>
+    <nombre>Carlos Cuesta</nombre>
+    <edad>18</edad>
+  </alumno>
+  <alumno>
+    <nombre>Carlos Cuesta</nombre>
+    <edad>18</edad>
+  </alumno>
+</alumnos>

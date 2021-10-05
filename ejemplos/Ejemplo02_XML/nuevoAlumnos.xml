@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Alumnos aula="INFO3" grupo="DAM2">
+    <Alumno>
+        <Nombre>Ana Alonso</Nombre>
+        <Edad>20</Edad>
+    </Alumno>
+    <Alumno>
+        <Nombre>Beatriz Blanco</Nombre>
+        <Edad>21</Edad>
+    </Alumno>
+    <Alumno>
+        <Nombre>Carlos Cuesta</Nombre>
+        <Edad>18</Edad>
+    </Alumno>
+    <Alumno>
+        <Nombre>Carlos Cuesta</Nombre>
+        <Edad>18</Edad>
+    </Alumno>
+    <Alumno>
+        <Nombre>Carlos Cuesta</Nombre>
+        <Edad>18</Edad>
+    </Alumno>
+    <alumno>
+        <nombre>Dario Diaz</nombre>
+        <edad>18</edad>
+    </alumno>
+</Alumnos>
