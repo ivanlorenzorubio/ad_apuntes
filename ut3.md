@@ -76,9 +76,9 @@ La estructura de almacenamiento de los contenidos en MongoDB es totalmente disti
 | Integer   	| Arrays     	            |
 | Double             	        | Object                     	|
 | String                       | Binary data       |
-| Boolean     	                    | Campo o atributo              	|
-| Date         	                | Object ID   	                    |
-| Null                            | Expresiones regulares   |
+| Boolean     	                    | Object ID              	|
+| Date         	                | Expresiones regulares   	                    |
+| Null                            |    |
 
 
 
